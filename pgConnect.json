@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Aiven PostgreSQL Connection",
+      "Group": "Aiven Group",
+      "Host": "pg-7cf77d9-adrianramadhan881-0758.b.aivencloud.com",
+      "Port": 26691,
+      "MaintenanceDB": "defaultdb",
+      "Username": "avnadmin",
+      "SSLMode": "require"
+    }
+  }
+}
